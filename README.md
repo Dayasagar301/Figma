@@ -1,4 +1,4 @@
-![Screenshot (164)](https://github.com/Dayasagar301/Figma/assets/132691000/86ebb3ad-6e48-43dd-b907-5d5d68371da5)# Figma
+### Figma
 
 
 ## Project Overview
@@ -88,6 +88,10 @@ https://figma-eight-vert.vercel.app/
 ###
 ![Screenshot (164)](https://github.com/Dayasagar301/Figma/assets/132691000/918643e5-ac31-462c-aac4-7d63379f682f)
 <hr/>
+
+![Screenshot (168)](https://github.com/Dayasagar301/Figma/assets/132691000/84d9f32e-58c6-46a9-ba89-cd468324c632)
+<hr/>
+
 
 
 ###
