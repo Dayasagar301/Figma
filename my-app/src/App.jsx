@@ -6,7 +6,7 @@ import Div5 from "./components/Div5"
 import Div7 from "./components/Div7"
 import Divs6 from "./components/Divs6"
 
-
+//
 
 function App() {
   
