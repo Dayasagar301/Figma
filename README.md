@@ -85,9 +85,11 @@ Figma
 
 The application is deployed and accessible via the following link:
 https://figma-eight-vert.vercel.app/
+###
 ![Screenshot (164)](https://github.com/Dayasagar301/Figma/assets/132691000/918643e5-ac31-462c-aac4-7d63379f682f)
 <hr/>
-![Screenshot (168)](https://github.com/Dayasagar301/Figma/assets/132691000/2647aa1a-38fa-4caf-9e03-7019570271d8)
 
+
+###
 
 
