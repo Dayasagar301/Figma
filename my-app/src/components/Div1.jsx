@@ -1,4 +1,6 @@
 import React, { useState } from "react";
+import backgroundImage from '../assets/Rectangle18.jpg';
+import logo1 from '../assets/logo.png';
 import {
   Flex,
   Box,
@@ -192,17 +194,16 @@ const Div1 = () => {
   
 
 
-      <div
-        className="h-588 w-1512"
-        style={{
-          backgroundImage:
-            'url("https://s3-alpha-sig.figma.com/img/894b/df6e/56b90bbef82ad188765f40d12a46caef?Expires=1717977600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=jBniJIIabUM5Sz2MptOUCZcISt5SJUkYa~32yo4k4uKIZOnsv2UPfRCUlYo-w2quEcv9rqDuuafokBaRla7zZMxJf6ILz1UBaSYRjEtjO9Is-QiWLUdkXnOgDQSf2oZEvHTyyPZkokWIVlUlyVkawK~OaqKGqcoGccfLpefDMbC4Gzb9p8Ta~8QmdfAVadD~0KfT8IvJYgefdHWYAyFSSAUkE35Ne4jTu0pXAH61KDcvPipctfKO-Pkq3j3Q9ADYxg-c8H2970mBZ8c7Ap8dDwtCB3Nx7ZseV8CNB-SnNW4TjDWGB9wVYeRtEnABJmkKot4pxdnjs04l5mKHfXR4VA__")',
-          height: "588px",
-          width: "1512px",
-          backgroundSize: "cover",
-          backgroundPosition: "center",
-        }}
-      >
+  <div
+      className="h-588 w-1512"
+      style={{
+        backgroundImage: `url(${backgroundImage})`,
+        height: '588px',
+        width: '1512px',
+        backgroundSize: 'cover',
+        backgroundPosition: 'center',
+      }}
+    >
         <Flex alignItems="center" gap="40">
           <Box
             pl="80px"
@@ -215,8 +216,7 @@ const Div1 = () => {
           >
             <Box
               style={{
-                backgroundImage:
-                  'url("https://s3-alpha-sig.figma.com/img/79e0/db14/6de61e6b7e512045a7cc5fab1681c6dc?Expires=1717977600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=myczd~GQsAb6milWNlczm~ovDCoFYtBtokVxcWQ2lMW1Q2wZ8OcFgeETzLYKzWzeCly5WR1E~fVyhUA8rDvf0n4zgLE7bGpxSohq1s1A4KJo6tYf0baF~wWNfCPXsI-rJBuI1CEVSuK9CPPPusZrsxZbjs8OqF32EIbD5fiWBewnSsihCpc6AK3rBbfgUTp6k~TdAyjM0icncVdwoQokJIMguM~~vE~PzzHMD2GaE116oqbko293C6i9boY-q5s6M8VhdJ8TLYDx-uZ4asIZsiIimOYN81MMzbAtGzlUq7abGwN80kQSBCo7lsCKP150lUiUigXSMrN85aanxdOlSQ__")',
+                backgroundImage: `url(${logo1})`,
                 height: "117px",
                 width: "106px",
                 backgroundSize: "cover",
